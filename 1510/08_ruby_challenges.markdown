@@ -48,7 +48,7 @@
 
 #### Lenny Myerson
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/TheObtuseAutodidact/code_challenge_1
 
 #### Penney Garrett
 
