@@ -14,7 +14,7 @@
 * Julian Feliciano:
 * July Tran:
 * Kimiko Kano:
-* Lenny Myerson:
+* Lenny Meyerson: https://github.com/TheObtuseAutodidact/module_3_diagnostic
 * Nate Venn:
 * Nicholas Dorans:
 * Nick Weiland:
